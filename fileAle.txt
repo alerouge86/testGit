@@ -1,3 +1,3 @@
-CIAO IN MAIUSCOLO sono ale
+ciao in minuscolo (da simona) sono Marco
 questa e' una figata modificata da MARCO..
-e simona e anche MARCO aggiunge la terza riga
+e simona e anche marco in MAIUSCOLO aggiunge la terza riga
