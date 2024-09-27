@@ -1,3 +1,4 @@
-CIAO IN MAIUSCOLO sono Marco
+ciao in minuscolo (da simona) sono Marco
 questa e' una figata modificata da MARCO..
-e simona e anche marco in minuscolo aggiunge la terza riga
+e simona e anche marco in NO_DEVE_ESSERE_MAIUSCOLO aggiunge la terza riga
+altra riga da simona
