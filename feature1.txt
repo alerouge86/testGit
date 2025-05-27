@@ -1,2 +1,2 @@
 aggiunta feature 1
-aggiungo feature 2 (so che sara' sbagliata)
+aggiungo feature 2 --qua tonello ha modificato-- (so che sara' sbagliata)
