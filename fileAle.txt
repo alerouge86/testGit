@@ -1,7 +1,2 @@
 ciao in minuscolo (da simona) sono Marco
 questa e' una figata modificata da MARCO..
-e simona e anche marco in MAIUSCOLO aggiunge la terza riga
-
-anche qui ha modificato tonello
-
-modifico un altro file (prima di fare il revert)
